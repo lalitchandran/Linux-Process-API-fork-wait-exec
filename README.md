@@ -100,7 +100,8 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/7c09627e-26ee-488f-9ed4-c378cb253364)
+![image](https://github.com/lalitchandran/Linux-Process-API-fork-wait-exec/assets/137707725/7b596522-a8eb-4c41-8f6a-7c4bf7f2a5d7)
+
 
 
 

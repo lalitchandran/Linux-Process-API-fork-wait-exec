@@ -46,7 +46,8 @@ int main(void)
 	      return 0; }
 ```
 ## OUTPUT
-![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/99369ba7-8352-4f96-bf14-f3836f4c0beb)
+![image](https://github.com/lalitchandran/Linux-Process-API-fork-wait-exec/assets/137707725/3a67c404-37c4-4412-bd08-2093e097e695)
+
 
 
 

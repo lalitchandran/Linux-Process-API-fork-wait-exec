@@ -141,6 +141,9 @@ int main() {
     return 0;
 }
 ```
+## OUTPUT
+![image](https://github.com/lalitchandran/Linux-Process-API-fork-wait-exec/assets/137707725/df6d53c5-e184-4180-8fdf-0cdb7baa03b6)
+
 
 
 
